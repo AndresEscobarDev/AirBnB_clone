@@ -1,0 +1,20 @@
+.places h1 {
+    font-size: 30px;
+    margin-left: 15px;
+}
+.dplaces {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+.dplaces article {
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: #FF5A5F 1px solid;
+    border-radius: 4px;
+    text-align: center;
+}
+.dplaces article h2{
+    font-size: 30px;
+}
